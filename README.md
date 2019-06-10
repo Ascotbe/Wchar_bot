@@ -1,3 +1,22 @@
+=
+需要导入的包
+datetime
+hyperlpr
+numpy
+request
+datetime
+time
+json
+random
+urlopen
+BeautifulSoup
+html
+Timer
+exceptions
+re
+cv2
+parse
+
 
 需要添加Key的地方，可以自己去申请免费的API
 =
